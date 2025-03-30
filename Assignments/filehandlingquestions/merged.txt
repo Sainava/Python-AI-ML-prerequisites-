@@ -1,0 +1,7 @@
+This is a log file 
+This is the second line 
+This is the third line 
+
+Line one 
+Line TwoLine Three
+	Line Bakayaro 

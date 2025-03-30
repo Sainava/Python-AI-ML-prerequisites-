@@ -1,0 +1,3 @@
+Yes, GCD is the same as HCF:
+GCD
+GCD stands for Greatest Common Divisor, and it is the largest positive integer that can divide two or more numbers without leaving a remainder. It is also known as the Highest Common Factor (HCF) or Greatest Common Measure (GCM).

@@ -1,0 +1,2 @@
+2024 December 21 23:35:27 - This is a log message
+2024-12-21T23:35:27.743637 - This is a log message

@@ -1,0 +1,19 @@
+{
+    "name": "John",
+    "age": 30,
+    "cars": {
+        "car1": "Ford",
+        "car2": "BMW",
+        "car3": "Fiat"
+    },
+    "friends": [
+        {
+            "name": "Michael",
+            "age": 23
+        },
+        {
+            "name": "William",
+            "age": 25
+        }
+    ]
+}
