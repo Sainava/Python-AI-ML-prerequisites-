@@ -5,7 +5,8 @@ This repository contains essential **prerequisites for AI/ML**, covering key mat
 It is based on *[Course Name by Creator]*, but **enhanced with more comments, explanations, and alternative implementations** for better understanding.  
 
 ---
-This repository is based on the Complete Python Bootcamp by Krish Naik, but it includes alternative answers to questions, more comments for better understanding, and a more beginner-friendly approach.
+This repository is based on the **[Complete Python Bootcamp by Krish Naik](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=KEEPLEARNING)**, but it includes **alternative answers to questions, more comments for better understanding, and a more beginner-friendly approach**.
+
 
 ---
 
